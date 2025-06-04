@@ -23,6 +23,8 @@ I’m a full-stack software engineer based in Tokyo. 🐖🐖
 ![Rails](https://img.shields.io/badge/Rails-%23f7d47e?style=for-the-badge&logo=rubyonrails&logoColor=red)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
+![Vue JS](https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vue.js)
+
 
 ### Others
  - AWS
